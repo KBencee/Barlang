@@ -1,0 +1,23 @@
+﻿@page
+@model BarlangWebApp.Pages.BarlangokSzamaModel
+@{
+}
+
+<h1>Barlangok száma településenként</h1>
+<table>
+    <thead>
+        <tr>
+            <th>Település neve</th>
+            <th>Barlangok száma</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var telepules in Model.Barlangokszama)
+        {    
+        <tr>
+            <td>@telepules.Telepulesneve</td>
+            <td>@telepules.Barlangszam</td>
+        </tr>
+        }
+    </tbody>
+</table>

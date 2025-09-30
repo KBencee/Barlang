@@ -3,60 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|c:\\users\\kiss.bence\\documents\\backend\\barlang\\barlangwebapp\\barlangwebapp\\pages\\telepulesalapjan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|solutionrelative:barlangwebapp\\pages\\telepulesalapjan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|c:\\users\\kiss.bence\\documents\\backend\\barlang\\barlangwebapp\\barlangwebapp\\pages\\telepulesalapjan.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|solutionrelative:barlangwebapp\\pages\\telepulesalapjan.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|c:\\users\\kiss.bence\\documents\\backend\\barlang\\barlangwebapp\\barlangwebapp\\pages\\barlangokszama.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|solutionrelative:barlangwebapp\\pages\\barlangokszama.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|c:\\users\\kiss.bence\\documents\\backend\\barlang\\barlangwebapp\\barlangwebapp\\models\\barlang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|solutionrelative:barlangwebapp\\models\\barlang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|c:\\users\\kiss.bence\\documents\\backend\\barlang\\barlangwebapp\\barlangwebapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|solutionrelative:barlangwebapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|c:\\users\\kiss.bence\\documents\\backend\\barlang\\barlangwebapp\\barlangwebapp\\dtos\\telepulesenkentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|solutionrelative:barlangwebapp\\dtos\\telepulesenkentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|c:\\users\\kiss.bence\\documents\\backend\\barlang\\barlangwebapp\\barlangwebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|solutionrelative:barlangwebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|c:\\users\\kiss.bence\\documents\\backend\\barlang\\barlangwebapp\\barlangwebapp\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|solutionrelative:barlangwebapp\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|c:\\users\\kiss.bence\\documents\\backend\\barlang\\barlangwebapp\\barlangwebapp\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|solutionrelative:barlangwebapp\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|c:\\users\\kiss.bence\\documents\\backend\\barlang\\barlangwebapp\\barlangwebapp\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|solutionrelative:barlangwebapp\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|c:\\users\\kiss.bence\\documents\\backend\\barlang\\barlangwebapp\\barlangwebapp\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|solutionrelative:barlangwebapp\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|c:\\users\\kiss.bence\\documents\\backend\\barlang\\barlangwebapp\\barlangwebapp\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|solutionrelative:barlangwebapp\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|c:\\users\\kiss.bence\\documents\\backend\\barlang\\barlangwebapp\\barlangwebapp\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|solutionrelative:barlangwebapp\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|c:\\users\\kiss.bence\\documents\\backend\\barlang\\barlangwebapp\\barlangwebapp\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|solutionrelative:barlangwebapp\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|c:\\users\\kiss.bence\\documents\\backend\\barlang\\barlangwebapp\\barlangwebapp\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|solutionrelative:barlangwebapp\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|c:\\users\\kiss.bence\\documents\\backend\\barlang\\barlangwebapp\\barlangwebapp\\data\\barlangdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|solutionrelative:barlangwebapp\\data\\barlangdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|c:\\users\\kiss.bence\\documents\\backend\\barlang\\barlangwebapp\\barlangwebapp\\pages\\barlangokszama.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11EF002B-C055-44DD-AA1B-515AD7B1E48C}|BarlangWebApp\\BarlangWebApp.csproj|solutionrelative:barlangwebapp\\pages\\barlangokszama.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,179 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TelepulesAlapjan.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\TelepulesAlapjan.cshtml.cs",
-              "RelativeDocumentMoniker": "BarlangWebApp\\Pages\\TelepulesAlapjan.cshtml.cs",
-              "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\TelepulesAlapjan.cshtml.cs",
-              "RelativeToolTip": "BarlangWebApp\\Pages\\TelepulesAlapjan.cshtml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwB0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:38:15.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TelepulesAlapjan.cshtml",
-              "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\TelepulesAlapjan.cshtml",
-              "RelativeDocumentMoniker": "BarlangWebApp\\Pages\\TelepulesAlapjan.cshtml",
-              "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\TelepulesAlapjan.cshtml",
-              "RelativeToolTip": "BarlangWebApp\\Pages\\TelepulesAlapjan.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-30T06:38:14.905Z",
+              "Title": "BarlangokSzama.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\BarlangokSzama.cshtml.cs",
+              "RelativeDocumentMoniker": "BarlangWebApp\\Pages\\BarlangokSzama.cshtml.cs",
+              "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\BarlangokSzama.cshtml.cs",
+              "RelativeToolTip": "BarlangWebApp\\Pages\\BarlangokSzama.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:06:30.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "BarlangWebApp\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "BarlangWebApp\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:33:49.914Z",
+              "Title": "BarlangokSzama.cshtml",
+              "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\BarlangokSzama.cshtml",
+              "RelativeDocumentMoniker": "BarlangWebApp\\Pages\\BarlangokSzama.cshtml",
+              "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\BarlangokSzama.cshtml",
+              "RelativeToolTip": "BarlangWebApp\\Pages\\BarlangokSzama.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T07:06:26.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "BarlangWebApp\\Pages\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Delete.cshtml.cs",
-              "RelativeToolTip": "BarlangWebApp\\Pages\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:33:49.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Delete.cshtml",
-              "RelativeDocumentMoniker": "BarlangWebApp\\Pages\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Delete.cshtml",
-              "RelativeToolTip": "BarlangWebApp\\Pages\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-30T06:33:49.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "BarlangWebApp\\Pages\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Details.cshtml.cs",
-              "RelativeToolTip": "BarlangWebApp\\Pages\\Details.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:33:49.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Details.cshtml",
-              "RelativeDocumentMoniker": "BarlangWebApp\\Pages\\Details.cshtml",
-              "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Details.cshtml",
-              "RelativeToolTip": "BarlangWebApp\\Pages\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-30T06:33:49.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "BarlangWebApp\\Pages\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Edit.cshtml.cs",
-              "RelativeToolTip": "BarlangWebApp\\Pages\\Edit.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:33:49.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Barlang.cs",
               "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Models\\Barlang.cs",
               "RelativeDocumentMoniker": "BarlangWebApp\\Models\\Barlang.cs",
               "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Models\\Barlang.cs",
               "RelativeToolTip": "BarlangWebApp\\Models\\Barlang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:21:09.857Z",
+              "WhenOpened": "2025-09-30T07:02:21.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "BarlangWebApp\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Index.cshtml",
-              "RelativeToolTip": "BarlangWebApp\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-30T06:33:49.793Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BarlangWebApp\\Pages\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Edit.cshtml",
-              "RelativeToolTip": "BarlangWebApp\\Pages\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-30T06:33:49.203Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "BarlangWebApp\\Pages\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Create.cshtml.cs",
-              "RelativeToolTip": "BarlangWebApp\\Pages\\Create.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "TelepulesenkentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\DTOs\\TelepulesenkentDTO.cs",
+              "RelativeDocumentMoniker": "BarlangWebApp\\DTOs\\TelepulesenkentDTO.cs",
+              "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\DTOs\\TelepulesenkentDTO.cs",
+              "RelativeToolTip": "BarlangWebApp\\DTOs\\TelepulesenkentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:33:49.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Create.cshtml",
-              "RelativeDocumentMoniker": "BarlangWebApp\\Pages\\Create.cshtml",
-              "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Pages\\Create.cshtml",
-              "RelativeToolTip": "BarlangWebApp\\Pages\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-30T06:33:48.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BarlangDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Data\\BarlangDbContext.cs",
-              "RelativeDocumentMoniker": "BarlangWebApp\\Data\\BarlangDbContext.cs",
-              "ToolTip": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\BarlangWebApp\\BarlangWebApp\\Data\\BarlangDbContext.cs",
-              "RelativeToolTip": "BarlangWebApp\\Data\\BarlangDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:23:37.488Z"
+              "WhenOpened": "2025-09-30T07:01:46.594Z",
+              "EditorCaption": ""
             }
           ]
         }
