@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f+7K8zTA2Ms=",
+  "dgSpecHash": "cuYz3isT12s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\WebApplication1\\WebApplication1\\Barlang.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kiss.bence\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\kiss.bence\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

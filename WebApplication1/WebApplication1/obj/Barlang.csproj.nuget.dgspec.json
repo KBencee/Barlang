@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\WebApplication1\\WebApplication1\\Barlang.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\WebApplication1\\WebApplication1\\Barlang.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-        "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\WebApplication1\\WebApplication1\\Barlang.csproj",
+        "projectName": "Barlang",
+        "projectPath": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\WebApplication1\\WebApplication1\\Barlang.csproj",
         "packagesPath": "C:\\Users\\kiss.bence\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\kiss.bence\\Documents\\backend\\Barlang\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
