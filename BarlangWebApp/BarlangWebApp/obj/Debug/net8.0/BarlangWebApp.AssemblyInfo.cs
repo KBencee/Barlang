@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BarlangWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c293c77bb0daeb0ec3a68bb249102d1abe0e08e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0b406903687887442d5c149d68a3b55aad3fddb")]
 [assembly: System.Reflection.AssemblyProductAttribute("BarlangWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BarlangWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
